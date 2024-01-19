@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
 <h3 align="center">A passionate frontend developer from BD.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariarfam&label=Profile%20views&color=ff00d0&style=flat-square" alt="shariarfam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariarsultanfahim&label=Profile%20views&color=ff00d0&style=flat-square" alt="shariarsultanfahim" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack - MongoDB, Express, React, Node**
 
-- 🖥️ See my portfolio at [https://shariarfam.github.io/developer-portfolio/](https://shariarfam.github.io/developer-portfolio/)
+- 🖥️ See my portfolio at [https://shariarsultanfahim.github.io/developer-portfolio/](https://shariarsultanfahim.github.io/developer-portfolio/)
 
 - 📫 How to reach me **shariarsfahim@gmail.com**
 
@@ -27,7 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shariarsfahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shariarsfahim" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariarfam&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="shariarfam" /></p> <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariarsultanfahim&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="shariarsultanfahim" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shariarfam&" alt="shariarfam" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariarsultanfahim&" alt="shariarsultanfahim" /></p>
