@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack - MongoDB, Express, React, Node**
 
-- 🖥️ See my portfolio at [https://shariarsultanfahim.github.io/developer-portfolio/](https://shariarsultanfahim.github.io/developer-portfolio/)
+- 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariarsultanfahim.xyz)
 
 - 📫 How to reach me **shariarsfahim@gmail.com**
 
