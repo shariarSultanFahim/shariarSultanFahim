@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/MvQLQ3f)
+![Banner]([https://imgur.com/a/MvQLQ3f](https://i.ibb.co/Rzh5sSR/White-Minimalist-Profile-Linked-In-Banner.png))
 
 
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
