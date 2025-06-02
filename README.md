@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
 <h3 align="center">A passionate frontend developer from BD.</h3>
 
-- 🌱 **MongoDB, Express, React, Node**
+- 🌱 **Next, React, MongoDB, Express, Node**
 
 - 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariarsultanfahim.xyz)
 
