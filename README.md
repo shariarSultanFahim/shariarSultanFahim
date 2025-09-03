@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
-<h3 align="center">A passionate frontend developer from BD.</h3>
+<h3 align="center">A passionate Frontend Developer from BD.</h3>
 
-- 🌱 **Next, React, MongoDB, Express, Node**
+- 🌱 **Next, React, TypeScript, Prisma**
 
-- 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariarsultanfahim.xyz)
+- 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariar-dev-portfolio.web.app/)
 
 - 📫 How to reach me **shariarsfahim@gmail.com**
 
