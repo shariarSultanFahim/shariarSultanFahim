@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
 <h3 align="center">A passionate Frontend Developer from BD.</h3>
 
-- 🌱 **Next, React, TypeScript, Prisma**
+- 🌱 **Next, Nest, TypeScript, Prisma**
 
 - 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariar-dev-portfolio.web.app/)
 
