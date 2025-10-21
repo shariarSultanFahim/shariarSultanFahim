@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shariar Sultan Fahim</h1>
-<h3 align="center">A passionate Frontend Developer from BD.</h3>
+<h3 align="center">A passionate Frontend Engineer from BD.</h3>
 
 - 🌱 **Next, Nest, TypeScript, Prisma**
 
