@@ -6,7 +6,7 @@
 
 - 🌱 **Next, Nest, TypeScript, Prisma**
 
-- 🖥️ See my portfolio at [https://shariarsultanfahim.xyz](https://shariar-dev-portfolio.web.app/)
+- 🖥️ See my portfolio at [https://fa-m.dev](https://fa-m.dev)
 
 - 📫 How to reach me **shariarsfahim@gmail.com**
 
